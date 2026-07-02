@@ -73,7 +73,7 @@ def parse_arguments() -> argparse.Namespace:
         formatter_class=argparse.RawTextHelpFormatter,
         epilog=(
             "description:\n"
-            "  Download data from REST APIs\n\n"
+            "  download data from REST APIs\n\n"
         ),
     )
 
