@@ -56,7 +56,7 @@ No Python installation is needed, just download and run `fetchapi.exe`. For conv
 
 ## Configuration
 
-`fetchapi` reads its settings from a YAML file (`default.yaml` by default). The file defines optional credentials and a list of `filename: url` pairs to download. Below and example:
+`fetchapi` reads its settings from a YAML file (`default.yaml` by default). The file defines optional credentials and a list of `filename: url` pairs to download. Below an example:
 
 ```yaml
 credentials:
