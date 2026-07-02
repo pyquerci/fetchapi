@@ -1,0 +1,13 @@
+credentials:
+  username: null
+  password: null
+
+items:
+  vips.json: "https://10.0.0.245/mgmt/tm/ltm/virtual?expandSubcollections=true"
+  pools.json: "https://10.0.0.245/mgmt/tm/ltm/pool?expandSubcollections=true"
+  nodes.json: "https://10.0.0.245/mgmt/tm/ltm/node?expandSubcollections=true"
+  ifs.json: "https://10.0.0.245/mgmt/tm/net/self"
+  routes.json: "https://10.0.0.245/mgmt/tm/net/route"
+  dcs.json: "https://10.0.0.245/mgmt/tm/sys/file/ssl-cert"
+  vstats.json: "https://10.0.0.245/mgmt/tm/ltm/virtual/stats"
+  pstats.json: "https://10.0.0.245/mgmt/tm/ltm/pool/members/stats"
