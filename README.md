@@ -1,4 +1,4 @@
-# sfetchapi
+# sfetchapi (Simple Fecth API)
 
 A command-line tool to download data from REST APIs and save the responses as local files.
 
